@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Wordless::Application.config.secret_key_base = '671ee74df6a624ae3ea89b34134bcd9dcea059762d21148c42601bf93249b825de338d6a79afda82c7cb913c6b7fe6286fffe790b90f09340a338802dec2b34f'
+Wordless::Application.config.secret_key_base = '159ca9c171893588d72c343f81397a86eeb53d309cc560c2cfa07bab74fec217c048b80b1867e8dc734bcd6c9a60bc8ad944d77a4a622374d12611c6a5dc1f33'
