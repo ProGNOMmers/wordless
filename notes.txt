@@ -1,0 +1,5 @@
+Notes
+
+  Differences
+    WordPress supports multiple sites.
+    Although WordPress stores roles as arrays, it doesn't support multiple roles management at the moment. We fully support multiple roles.

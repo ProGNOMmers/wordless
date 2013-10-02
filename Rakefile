@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Wordless::Application.load_tasks
+WordLess::Application.load_tasks
